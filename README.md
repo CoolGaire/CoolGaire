@@ -47,8 +47,9 @@ Mentored students in Linux/bioinformatics for HINF 5440/8440 courses.
 ### 📚 Publications
 **•	Burrack AL, Schmiechen ZC, Cruz E, Hickok G, Nanda H, Gaire A, Pandey R, Rizzo A, Xu Y, Tsai A, Larsen B. Immunotherapy promotes tumor adapted TNF-producing neutrophils that impair T cell clonal expansion and resident memory formation in pancreatic ductal adenocarcinoma 2236. The Journal of Immunology. 2025 Nov;214(Supplement_1):vkaf283-178.**
 
-**•	Khanal A, Sulochan GC, Gaire A (3rd author, equal contribution with first author as noted in journal), Khanal A, Estrada R, Ghimire R, et al. Methicillin-resistant Staphylococcus aureus in Nepal: A systematic review and meta-analysis. International Journal of Infectious Diseases. 2021;103:48–55. Cited by 41. 
-•	Sah BK, Basyal D, Gaire A. Medication non-adherence among type-II diabetes mellitus out-patients attending a tertiary care hospital, Nepal. Clinical Pharmacology & Biopharmaceutics. 2021;1:7. Cited by 13.** 
+**•	Khanal A, Sulochan GC, Gaire A (3rd author, equal contribution with first author as noted in journal), Khanal A, Estrada R, Ghimire R, et al. Methicillin-resistant Staphylococcus aureus in Nepal: A systematic review and meta-analysis. International Journal of Infectious Diseases. 2021;103:48–55. Cited by 41.**
+
+**•	Sah BK, Basyal D, Gaire A. Medication non-adherence among type-II diabetes mellitus out-patients attending a tertiary care hospital, Nepal. Clinical Pharmacology & Biopharmaceutics. 2021;1:7. Cited by 13.** 
 
 **•	Rajbanshi M, Bhusal S, Paudel K, Poudel B, Gaire A, Khatri E, Kalauni BR, et al. Knowledge, attitude, and practice of Nepalese residents in the prevention and control of COVID-19: A cross-sectional web-based survey. Annals of Medicine and Surgery. 2022;84:104861. Cited by 12.** 
 
