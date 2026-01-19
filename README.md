@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  PhD Student in Translational Bioinformatics @ University of Minnesota | Analyzing single-cell & spatial omics data to uncover biological insights
+  PhD Student in Translational Bioinformatics @ University of Minnesota | Analyzing Genomics and Transcriptomics data to uncover biological insights
 </p>
 
 ---
