@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amrit Gaire</h1>
 
 <p align="center">
-  <a href="mailto:amritgaire16@gmail.com">amritgaire16@gmail.com</a> •
-  (612) 764-6534 •
+  <a href="mailto:amritgaire16@gmail.com">amritgaire16@gmail.com</a> 
   Minneapolis, MN, USA •
-  <a href="https://www.linkedin.com/in/amritgaire672">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/amrit-gaire672">LinkedIn</a> •
   <a href="https://scholar.google.com/citations?hl=en&user=UymgwrMAAAAJ">Google Scholar</a>
 </p>
 
