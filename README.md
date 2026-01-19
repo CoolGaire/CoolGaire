@@ -52,8 +52,9 @@ Mentored students in Linux/bioinformatics for HINF 5440/8440 courses.
 
 **•	Rajbanshi M, Bhusal S, Paudel K, Poudel B, Gaire A, Khatri E, Kalauni BR, et al. Knowledge, attitude, and practice of Nepalese residents in the prevention and control of COVID-19: A cross-sectional web-based survey. Annals of Medicine and Surgery. 2022;84:104861. Cited by 12.** 
 
-**•	Gaire A, Panthee B, Basyal D, Paudel A, Panthee S. COVID-19 vaccine acceptance: A case study from Nepal. COVID. 2022;2(8):1014–1025. Cited by 7. 
-•	Khanal A, Gc S, Panthee S, Paudel A, Ghimire R, Neupane G, Gaire A, et al. Fear, risk perception, and engagement in preventive behaviors for COVID-19 during nationwide lockdown in Nepal. Vaccines. 2023;11(1):29. Cited by 3.** 
+**•	Gaire A, Panthee B, Basyal D, Paudel A, Panthee S. COVID-19 vaccine acceptance: A case study from Nepal. COVID. 2022;2(8):1014–1025. Cited by 7.**
+
+**•	Khanal A, Gc S, Panthee S, Paudel A, Ghimire R, Neupane G, Gaire A, et al. Fear, risk perception, and engagement in preventive behaviors for COVID-19 during nationwide lockdown in Nepal. Vaccines. 2023;11(1):29. Cited by 3.** 
 
 **•	Gc S, Khanal A, Gc VS, Bhattarai S, Panthee S, Khanal A, Gaire A, et al. Burden of tuberculosis and hepatitis co-infection among people living with HIV in Nepal: A systematic review and meta-analysis. Sexual Health. 2022;19(5):406–416. Cited by 1.**
 
