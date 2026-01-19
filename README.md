@@ -14,7 +14,7 @@
 ---
 
 ### 🧬 About Me
-Enthusiastic bioinformatics researcher with expertise in single-cell RNA-seq, bulk RNA-seq, ATAC-seq, ChIP-seq, spatial transcriptomics, and variant calling. Proficient in R (Seurat, Monocle3, EdgeR, nicheNetR, ChIPseeker), Python, Linux. Experienced with pipelines like Cell Ranger, Pipseq-Pipseeker, CurioSeeker, MACS3. Passionate about transposable elements, cellular senescence, and cardiac/immune biology. Committed to reproducible science, mentoring, and multidisciplinary collaboration.
+Enthusiastic bioinformatics researcher with expertise in Genomics and Transcriptomics i.e single-cell RNA-seq, bulk RNA-seq, ATAC-seq, ChIP-seq, spatial transcriptomics, and variant calling. Proficient in R (Seurat, Monocle3, EdgeR, nicheNetR, ChIPseeker), Python, Linux. Experienced with pipelines like Cell Ranger, Pipseq-Pipseeker, CurioSeeker, MACS3. Passionate about transposable elements, cellular senescence, and cardiac/immune biology. Committed to reproducible science, mentoring, and multidisciplinary collaboration.
 
 
 ---
@@ -28,7 +28,7 @@ Enthusiastic bioinformatics researcher with expertise in single-cell RNA-seq, bu
 
 ### 🎓 Education
 - **PhD in Health Informatics (Translational Bioinformatics)** — University of Minnesota Twin Cities (Sep 2023 – Present) | GPA: 4.00
-- **MS in Health Informatics (Translational Bioinformatics)** — University of Minnesota Twin Cities (Sep 2023 – Nov 2025) | GPA: 4.00
+- **MS in Health Informatics (Translational Bioinformatics)** — University of Minnesota Twin Cities (Sep 2023 – Dec 2025) | GPA: 4.00
 - **Bachelor’s in Pharmacy** — Institute of Medicine, Tribhuvan University, Nepal (2016–2021) | GPA: 3.79
 
 ---
